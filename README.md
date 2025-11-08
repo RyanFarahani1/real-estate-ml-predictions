@@ -1,7 +1,7 @@
 # Real Estate ML Predictions
 This repository contains code for predicting real estate property prices and property types using ensemble machine learning models. The project applies advanced preprocessing, feature engineering, and model ensembling to improve prediction accuracy.
-** UNSW Final Assignment for Data Services Engineering Course, T1 2025 
-** Achieved 100% assignment mark
+**UNSW Final Assignment for Data Services Engineering Course, T1 2025 
+**Achieved 100% assignment mark
 
 ## Project Overview
 
